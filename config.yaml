@@ -1,0 +1,11 @@
+name: ev_hw2
+
+data:
+  dir: data
+  sport_type: basketball
+output:
+  dir: output
+visualize:
+  render_mode: color
+  line_type: null
+  remove_background: false
